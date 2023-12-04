@@ -1,0 +1,28 @@
+{
+  "name": "dataanalysis-project",
+  "version": "1.0.0",
+  "description": "A project to analyse data for business decisions",
+  "scripts": {
+    "production": "docker compose up -d &&  parcel src/html/**.html",
+    "build": " npm install && parcel build src/html/**.html",
+    "stopdocker": "docker compose down"
+  },
+  "author": "Oluwaremilekun Osisanya",
+  "license": "MIT",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "crypto-browserify": "^3.12.0",
+    "events": "^3.3.0",
+    "process": "^0.11.10",
+    "stream-browserify": "^3.0.0",
+    "string_decoder": "^1.3.0",
+    "timers-browserify": "^2.0.12",
+    "url": "^0.11.3",
+    "util": "^0.12.5"
+  },
+  "dependencies": {
+    "@cubejs-client/core": "^0.34.27",
+    "chart.js": "^4.4.0",
+    "parcel": "^2.10.3"
+  }
+}

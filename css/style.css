@@ -1,0 +1,17 @@
+.headertext {
+    width: auto;
+    height: 10%;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    width: auto;
+    height: 10%;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    width: 80%;
+}
