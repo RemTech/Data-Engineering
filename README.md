@@ -1,8 +1,8 @@
 ## *Dependencies* ##
 ------------------
 
-> `Parcel` is a build tool && `cubejs` is for fetching / connecting the datasource for visualisation.
-> `Chartjs` is for presenting the data in graphs
+> 1. `Parcel` is a build tool && `cubejs` is for fetching / connecting the datasource for visualisation.
+> 2. `Chartjs` is for presenting the data in graphs
 
  ### *type Cube properties* ###
  ----------------------------
