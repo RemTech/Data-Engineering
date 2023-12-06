@@ -30,9 +30,11 @@
 - [x] Ensure you have `nodejs`  &&  `docker` installed on your system. 
 - [x] To download `nodejs`  &&  `docker` follow the links below: 
 
-- [x] [![node-download](../DataAnalysis-Project/assets/picture/node.png)](https://nodejs.org/en/download)  
+- [x] [![node-download](../DataAnalysis-Project/assets/picture/nodejs.jpg)](https://nodejs.org/en/download)  
 
-- [x] [![docker-download](../DataAnalysis-Project/assets/picture/Docker-Logo.png)](https://docs.docker.com/desktop/install/windows-install/)
+
+- [x] [![docker-download](../DataAnalysis-Project/assets/picture/docker.jpg)](https://docs.docker.com/desktop/install/windows-install/)
+
 
 - [x] Clone this repository by typing `git clone <repository-name>` replacing the `<repository-name>` with `<this-repository-name>`on your command line interface.
 - [x] Run `npm run build` to install the dependencies and build the application.
