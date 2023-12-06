@@ -1,7 +1,7 @@
-## Data Engineering Project ##
+## *Data Engineering Project* ##
 ------------------------------
 
-![nodejs](../DataAnalysis-Project/assets/picture/node.png)  |  ![docker](../DataAnalysis-Project/assets/picture/Docker-Logo.png)
+![nodejs](../DataAnalysis-Project/assets/picture/node.png)   |   ![docker](../DataAnalysis-Project/assets/picture/Docker-Logo.png)
 
 ### *Dependencies* ###
 ------------------
