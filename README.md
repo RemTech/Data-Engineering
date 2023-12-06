@@ -1,7 +1,7 @@
 ## *Data Engineering Project* ##
 ------------------------------
 
-![nodejs](../DataAnalysis-Project/assets/picture/node.png)   |   ![docker](../DataAnalysis-Project/assets/picture/Docker-Logo.png)
+![nodejs](assets/picture/nodejs.jpg)   |   ![docker](assets/picture/docker.jpg)
 
 ### *Dependencies* ###
 ------------------
@@ -30,10 +30,10 @@
 - [x] Ensure you have `nodejs`  &&  `docker` installed on your system. 
 - [x] To download `nodejs`  &&  `docker` follow the links below: 
 
-- [x] [![node-download](../DataAnalysis-Project/assets/picture/nodejs.jpg)](https://nodejs.org/en/download)  
+- [x] [![node-download](assets/picture/nodejs.jpg)](https://nodejs.org/en/download)  
 
 
-- [x] [![docker-download](../DataAnalysis-Project/assets/picture/docker.jpg)](https://docs.docker.com/desktop/install/windows-install/)
+- [x] [![docker-download](assets/picture/docker.jpg)](https://docs.docker.com/desktop/install/windows-install/)
 
 
 - [x] Clone this repository by typing `git clone <repository-name>` replacing the `<repository-name>` with `<this-repository-name>`on your command line interface.
