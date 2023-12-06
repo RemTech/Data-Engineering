@@ -1,7 +1,8 @@
 ## *Data Engineering Project* ##
 ------------------------------
-
-![nodejs](assets/picture/nodejs.jpg)   |   ![docker](assets/picture/docker.jpg)
+| Node                                  |             Docker                      | 
+|:-------------------------------------: |  :------------------------------------:|                            
+|![nodejs](assets/picture/nodejs.jpg)   |   ![docker](assets/picture/docker-mini.jpg) |
 
 ### *Dependencies* ###
 ------------------
@@ -28,12 +29,12 @@
  ### *To Run The Application, Please Follow The Order of Sequence* ###
  ----------------------------------
 - [x] Ensure you have `nodejs`  &&  `docker` installed on your system. 
-- [x] To download `nodejs`  &&  `docker` follow the links below: 
+- [x] To download `nodejs`  &&  `docker` click the below icons: 
 
-- [x] [![node-download](assets/picture/nodejs.jpg)](https://nodejs.org/en/download)  
+- [x] [![node-download](assets/picture/nodejs-mini-crop.jpg)](https://nodejs.org/en/download)  
 
 
-- [x] [![docker-download](assets/picture/docker.jpg)](https://docs.docker.com/desktop/install/windows-install/)
+- [x] [![docker-download](assets/picture/docker-mini-crop.jpg)](https://docs.docker.com/desktop/install/windows-install/)
 
 
 - [x] Clone this repository by typing `git clone <repository-name>` replacing the `<repository-name>` with `<this-repository-name>`on your command line interface.
