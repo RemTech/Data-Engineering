@@ -6,12 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Local-Query</title>
     <script type="module" src="../view/LocalChart.js"></script>
-    <link rel="stylesheet" href="/css/style.css">
+    <!-- <link rel="stylesheet" href="/css/style.css"> -->
+    <script type="module" src="/bootstrapjs/main.js"></script>
+    <link rel="stylesheet" href="/scss/styles.scss">
 </head>
 
 <body>
-    <p>Local Postgres Data-Analysis-DataBase</p>
-    <div id="divcontainer">
+
+    <div class="container text-center">
+        <div class="row">
+            <h3>Local Postgres Data-Analysis-DataBase</h3>
+        </div> 
+    </div>
+    <div class="container-md">
         <canvas id="localchart" width="450px" height="110"></canvas>
     </div><br>
     <audio controls autoplay="true" preload="auto" loop>
