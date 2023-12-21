@@ -4,6 +4,8 @@
 |:-------------------------------------: |  :------------------------------------:|                            
 |![nodejs](assets/picture/nodejs.jpg)   |   ![docker](assets/picture/docker-mini.jpg) |
 
+[![pages-build-deployment](https://github.com/RemTech/Data-Engineering/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/RemTech/Data-Engineering/actions/workflows/pages/pages-build-deployment)
+
 ### *Dependencies* ###
 ------------------
 
